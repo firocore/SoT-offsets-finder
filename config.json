@@ -1,0 +1,9 @@
+{
+    "offsets": {
+        "AActor.actorId": ["Engine_Classes", "ActorComponent", "ActorId"],
+        "AActor.rootComponent": ["Engine_Classes", "Actor", "RootComponent"],
+        "APlayerState.PlayerName": ["Engine_Classes", "PlayerState", "PlayerName"],
+        "APlayerController.CameraManager": ["Engine_Classes", "PlayerController", "PlayerCameraManager"]
+    }
+
+}
