@@ -3,7 +3,13 @@
         "AActor.actorId": ["Engine_Classes", "ActorComponent", "ActorId"],
         "AActor.rootComponent": ["Engine_Classes", "Actor", "RootComponent"],
         "APlayerState.PlayerName": ["Engine_Classes", "PlayerState", "PlayerName"],
-        "APlayerController.CameraManager": ["Engine_Classes", "PlayerController", "PlayerCameraManager"]
+        "APlayerController.CameraManager": ["Engine_Classes", "PlayerController", "PlayerCameraManager"],
+        "GameInstance.LocalPlayers": ["Engine_Classes", "GameInstance", "LocalPlayers"],
+        "PlayerCameraManager.CameraCache": ["Engine_Classes", "PlayerCameraManager", "CameraCache"],
+        "SceneComponent.RelativeLocation": ["Engine_Classes", "SceneComponent", "RelativeLocation"],
+        "World.OwningGameInstance": ["Engine_Classes", "World", "OwningGameInstance"],
+        "World.PersistentLevel": ["Engine_Classes", "World", "PersistentLevel"],
+        "UCameraComponent.FieldOfView": ["Engine_Classes", "CameraComponent", "FieldOfView"],
+        "LocalPlayer.PlayerController": ["Engine_Classes", "Player", "PlayerController"]
     }
-
 }

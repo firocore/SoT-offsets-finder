@@ -10,7 +10,7 @@ import re
         Original code: https://raw.githubusercontent.com/DougTheDruid/SoT-Python-Offset-Finder
 '''
 
-cfg_path = 'cfg/config.json'
+cfg_path = 'config.json'
 
 
 class Offset_finder():

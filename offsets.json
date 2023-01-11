@@ -2,5 +2,12 @@
     "AActor.actorId": 24,
     "AActor.rootComponent": 360,
     "APlayerState.PlayerName": 976,
-    "APlayerController.CameraManager": 1112
+    "APlayerController.CameraManager": 1112,
+    "GameInstance.LocalPlayers": 56,
+    "PlayerCameraManager.CameraCache": 1088,
+    "SceneComponent.ActorCoordinates": 264,
+    "World.OwningGameInstance": 448,
+    "World.PersistentLevel": 48,
+    "UCameraComponent.FieldOfView": 736,
+    "LocalPlayer.PlayerController": 48
 }
