@@ -38,6 +38,8 @@ class Offset_finder():
 
         if memory_object == 'ActorId':
             return 24
+        elif memory_object == "ActorCoordinates":
+            return 0x12c
 
         if offsets:
             components = offsets.get(title, None)

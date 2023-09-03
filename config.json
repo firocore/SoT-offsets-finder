@@ -10,6 +10,7 @@
         "World.OwningGameInstance": ["Engine_Classes", "World", "OwningGameInstance"],
         "World.PersistentLevel": ["Engine_Classes", "World", "PersistentLevel"],
         "UCameraComponent.FieldOfView": ["Engine_Classes", "CameraComponent", "FieldOfView"],
-        "LocalPlayer.PlayerController": ["Engine_Classes", "Player", "PlayerController"]
+        "LocalPlayer.PlayerController": ["Engine_Classes", "Player", "PlayerController"],
+        "CameraCacheEntry.MinimalViewInfo": ["Engine_Structs", "CameraCacheEntry", "POV"]
     }
 }

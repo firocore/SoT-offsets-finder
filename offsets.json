@@ -5,9 +5,10 @@
     "APlayerController.CameraManager": 1112,
     "GameInstance.LocalPlayers": 56,
     "PlayerCameraManager.CameraCache": 1088,
-    "SceneComponent.ActorCoordinates": 264,
+    "SceneComponent.RelativeLocation": 264,
     "World.OwningGameInstance": 448,
     "World.PersistentLevel": 48,
     "UCameraComponent.FieldOfView": 736,
-    "LocalPlayer.PlayerController": 48
+    "LocalPlayer.PlayerController": 48,
+    "CameraCacheEntry.MinimalViewInfo": 16
 }
